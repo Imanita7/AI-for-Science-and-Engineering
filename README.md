@@ -9,3 +9,7 @@ A python program that converts temperature from degrees celsius to degrees Fahre
 ### Assignment 3
 #### STUDENT PERFORMANCE RISK PREDICTION
 A machine learning project that investigates whether students' academic and behavioral information can be used to identify students at risk of poor academic performance.
+
+
+### Author
+Imani Wanjiru
