@@ -19,6 +19,9 @@ It explores the relationship between previous-period grades (G2) and final grade
 #### STUDENT PERFORMANCE ML MODELS
 This project uses the Student Performance dataset to build and compare two supervised classification models: *Logistic Regression* and *Random Forest*. The models predict whether students are at risk of poor academic performance based on relevant student features. Their performance is evaluated using accuracy, precision, recall and F1 score.
 
+### Assignment 6
+#### STUDENT PERFORMANCE CLUSTERING
+This project applies K-Means clustering to the Student Performance dataset to identify groups of students with similar characteristics. It uses feature scaling, the Elbow Method, Silhouette Scores and data visualization to explore suitable clusters and interpret their characteristics.
 
 
 ### Author
