@@ -23,6 +23,11 @@ This project uses the Student Performance dataset to build and compare two super
 #### STUDENT PERFORMANCE CLUSTERING
 This project applies K-Means clustering to the Student Performance dataset to identify groups of students with similar characteristics. It uses feature scaling, the Elbow Method, Silhouette Scores and data visualization to explore suitable clusters and interpret their characteristics.
 
+### Assignment 7
+#### EXPLORING PRETRAINED MODELS
+This assignment explores pretrained models using Hugging Face, focusing on TabPFN v2, a pretrained model for tabular classification. It examines how the model works, its relevance to the Student Performance Prediction project and how pretrained models, Generative AI and NLP can complement traditional machine learning approaches. It also discusses the limitations and precautions involved in using pretrained models.
+
+
 
 ### Author
 Imani Wanjiru
